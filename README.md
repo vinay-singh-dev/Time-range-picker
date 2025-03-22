@@ -19,7 +19,7 @@ This Android app features a **Time Range Picker**, allowing users to select a st
 ## 🔧 Setup & Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/time-range-picker.git
+   git clone https://github.com/vinay-singh-dev/time-range-picker.git
    ```
 2. **Open in Android Studio**
 3. **Sync Gradle & Run the App**
