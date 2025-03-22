@@ -39,9 +39,6 @@ val timePickerDialog = TimePickerDialog(
 timePickerDialog.show()
 ```
 
-## 📸 Screenshots
-![Time Picker](https://via.placeholder.com/400x800)
-
 ## 🔥 Future Enhancements
 - Dark Mode Support 🌙
 - Custom Styling Options 🎨
@@ -50,7 +47,5 @@ timePickerDialog.show()
 ## 🤝 Contribution
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 🚀 **Start building intuitive time selection experiences today!**
